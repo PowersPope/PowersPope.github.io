@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Andrew Powers"
 title_separator          : "-"
-name                     : &name "Andrew PJowers"
+name                     : &name "Andrew Powers"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://PowersPope.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,10 +24,10 @@ repository               : "PowersPope/PowersPope.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Andrew Powers"
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "4th year graduate student in the Hosseinzadeh Lab at the University of Oregon."
-  location         : "Earth"
+  location         : "Portland, OR"
   employer         : "The University of Oregon"
   uri              : # URL
   email            : "apowers4@uoregon.edu" 
